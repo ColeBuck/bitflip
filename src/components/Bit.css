@@ -1,0 +1,10 @@
+div.bit-container {
+  width: 70%;
+  margin: auto;
+}
+
+button.bit {
+  margin: 20px 2px;
+  float: right;
+  font-size: 24px;
+}
